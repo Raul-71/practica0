@@ -1,4 +1,4 @@
-Mi primer documento para github
+Introduccion a git
 
 clear
 
