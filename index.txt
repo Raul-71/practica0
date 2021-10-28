@@ -1,0 +1,28 @@
+Raul Rodriguez Montavez
+
+"Introduccion a git"
+
+1.Diferencias entre Sistema de control de versiones locales, centralizados y distribuidos
+Los sistemas de control de versiones distribuidos (DVCS) resuelven diferentes problemas que los VCS centralizados. 
+Compararlos es como comparar martillos y destornilladores.
+
+Los sistemas de VCS centralizados están diseñados con la intención de que haya Una Fuente Verdadera que sea Bendita y, 
+por lo tanto, Buena. Todos los desarrolladores trabajan (pago) desde esa fuente y luego agregan (confirman) sus cambios, 
+que luego se vuelven igualmente bendecidos. La única diferencia real entre CVS, Subversion, ClearCase, Perforce, 
+VisualSourceSafe y todos los demás CVCSes está en el flujo de trabajo, el rendimiento y la integración que ofrece cada producto.
+Los sistemas VCS distribuidos están diseñados con la intención de que un repositorio sea tan bueno como cualquier otro,
+ y que las fusiones de un repositorio a otro sean solo otra forma de comunicación. Cualquier valor semántico en cuanto a 
+qué repositorio debe ser confiable es impuesto desde el exterior por el proceso, no por el software en sí.
+
+2.Qué es GitHub y cuáles son sus utilidades.
+
+GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el 
+sistema de control de versiones Git.
+
+Sirve para alojar tu repositorio de código y te brinda herramientas muy útiles para el trabajo en equipo, dentro de un proyecto.
+
+Además de eso, puedes contribuir a mejorar el software de los demás. Para poder alcanzar esta meta, GitHub provee de funcionalidades
+para hacer un fork y solicitar pulls.
+Realizar un fork es simplemente clonar un repositorio ajeno (genera una copia en tu cuenta), para eliminar algún bug o modificar cosas de él.
+Una vez realizadas tus modificaciones puedes enviar un pull al dueño del proyecto. Éste podrá analizar los cambios que
+has realizado fácilmente, y si considera interesante tu contribución, adjuntarlo con el repositorio original.
